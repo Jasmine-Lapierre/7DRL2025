@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Wild_Herb
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Wild Herb
+  id: 60
+  itemName: Wild Cap
   itemType: 5
   valeur: 2
   tier: 1
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 8579111415464493206, guid: ccb55a15747961a41a628b8c165c2f62, type: 3}
+  icon: {fileID: 8579111415464493206, guid: ccb55a15747961a41a628b8c165c2f62, type: 3}

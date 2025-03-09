@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Moldy_Bread
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Moldy Bread
+  id: 36
+  itemName: Rotten Eggs
   itemType: 3
   valeur: -2
   tier: 0
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 4799766c56ad8a848872a71ded4bee4f, type: 3}
+  icon: {fileID: 21300000, guid: 4799766c56ad8a848872a71ded4bee4f, type: 3}

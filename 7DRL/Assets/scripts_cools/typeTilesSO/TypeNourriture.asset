@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TypeNourriture
   m_EditorClassIdentifier: 
   itemType: 3
-  sprite: {fileID: -4599823298548724438, guid: fc43f92d5f814584bbce5135913d97c4, type: 3}
+  quantite: 0
+  quantiteEnJeu: 160
+  valeur: 5
+  sprite: {fileID: 5122341632822822760, guid: 192cd64c815fce44cbbec5bb21343eda, type: 3}

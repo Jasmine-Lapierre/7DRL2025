@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Ethereal_Bloom
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Ethereal Bloom
+  id: 20
+  itemName: Mystic Orbfruit
   itemType: 5
   valeur: 15
   tier: 3
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: -2158441306721915952, guid: 829c0eb13ae9f0c43a451fb094176c3b, type: 3}
+  icon: {fileID: -2158441306721915952, guid: 829c0eb13ae9f0c43a451fb094176c3b, type: 3}

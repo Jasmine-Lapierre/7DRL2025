@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Royal_Banquet
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Royal Banquet
+  id: 44
+  itemName: Chicken Pie
   itemType: 3
   valeur: 12
   tier: 3
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 21300000, guid: a0047ba5a15d2894ea00084ffd81fd15, type: 3}
+  icon: {fileID: 21300000, guid: a0047ba5a15d2894ea00084ffd81fd15, type: 3}

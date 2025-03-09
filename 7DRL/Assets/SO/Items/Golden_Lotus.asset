@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Golden_Lotus
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Golden Lotus
+  id: 23
+  itemName: Golden Roots
   itemType: 5
   valeur: 30
   tier: 4
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 7809157847302988670, guid: fd99f97856eb86241a85d53487f655f7, type: 3}
+  icon: {fileID: 7809157847302988670, guid: fd99f97856eb86241a85d53487f655f7, type: 3}

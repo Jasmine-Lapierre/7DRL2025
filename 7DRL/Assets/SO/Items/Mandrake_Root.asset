@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Mandrake_Root
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Mandrake Root
+  id: 35
+  itemName: Flame Vines
   itemType: 5
   valeur: 6
   tier: 2
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 6626051464634953487, guid: 78813123d1dbcb240b57ed200ec3376d, type: 3}
+  icon: {fileID: 6626051464634953487, guid: 78813123d1dbcb240b57ed200ec3376d, type: 3}

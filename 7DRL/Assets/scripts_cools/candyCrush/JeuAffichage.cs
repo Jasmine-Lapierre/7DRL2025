@@ -14,7 +14,7 @@ public class JeuAffichage : MonoBehaviour
 
     [Header("Zone de jeu")]
     public GameObject[,] grid;
-    public int dimension;
+    private int dimension = GestionRessourcesConcreteSingleton.Instance.tierActuel +4;
     public float distance;
     public GameObject tilePrefab;
     public List<TuileType> types;

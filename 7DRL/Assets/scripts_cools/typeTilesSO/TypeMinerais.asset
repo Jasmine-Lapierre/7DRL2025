@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TypeMinerais
   m_EditorClassIdentifier: 
   itemType: 4
-  sprite: {fileID: 1703767051741080706, guid: 0c70017e2daf77b44848a818644666f1, type: 3}
+  quantite: 0
+  quantiteEnJeu: 150
+  valeur: 13
+  sprite: {fileID: -3659299970035130139, guid: dd3544b42cd5d5240831ffc06a224f9d, type: 3}

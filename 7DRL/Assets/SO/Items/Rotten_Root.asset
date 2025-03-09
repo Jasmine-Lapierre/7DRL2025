@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Rotten_Root
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Rotten Root
+  id: 43
+  itemName: Mold Spores
   itemType: 5
   valeur: -3
   tier: 0
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: -4983721108374671077, guid: acb84ecb3e099344683481a73dbe0790, type: 3}
+  icon: {fileID: -4983721108374671077, guid: acb84ecb3e099344683481a73dbe0790, type: 3}

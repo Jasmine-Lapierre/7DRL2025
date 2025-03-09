@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Gourmet_Meal
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Gourmet Meal
+  id: 24
+  itemName: Pecan Pie
   itemType: 3
   valeur: 10
   tier: 3
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 21300000, guid: c41733b86c4023545888a57e7bea5738, type: 3}
+  icon: {fileID: 21300000, guid: c41733b86c4023545888a57e7bea5738, type: 3}

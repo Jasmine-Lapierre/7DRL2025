@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Dewy_Fern
   m_EditorClassIdentifier: 
-  id: 0
+  id: 11
   itemName: Dewy Fern
   itemType: 5
   valeur: 3
   tier: 1
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 2957404852419100943, guid: 48609c9ca15e17641abdcc6d203cf982, type: 3}
+  icon: {fileID: 2957404852419100943, guid: 48609c9ca15e17641abdcc6d203cf982, type: 3}

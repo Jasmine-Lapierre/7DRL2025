@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TypePlante
   m_EditorClassIdentifier: 
   itemType: 5
-  sprite: {fileID: -7964124029490309088, guid: fb70daec38eb39d46a416705ccdbcb6b, type: 3}
+  quantite: 0
+  quantiteEnJeu: -10
+  valeur: 35
+  sprite: {fileID: -7947462409902495443, guid: 9fe58f7b0f0afe0488e2dfd927f12ada, type: 3}

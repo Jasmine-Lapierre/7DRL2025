@@ -807,8 +807,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0d4dc61841ca14b81fa0ff000e09dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dimension: 9
-  distance: 0.75
+  dimension: 6
+  distance: 0.9
   tilePrefab: {fileID: 1916675471802238532, guid: 1e8a8fdfae462eb44ab0439331c15f94, type: 3}
   types:
   - {fileID: 11400000, guid: 8a6174cfdc714944992527256358269b, type: 2}

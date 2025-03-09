@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Spirit_Orchid
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Spirit Orchid
+  id: 52
+  itemName: Frozen Whispervine
   itemType: 5
   valeur: 17
   tier: 3
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 6916580865650861735, guid: 25f03356bd873a743b05556e81718ec3, type: 3}
+  icon: {fileID: 6916580865650861735, guid: 25f03356bd873a743b05556e81718ec3, type: 3}

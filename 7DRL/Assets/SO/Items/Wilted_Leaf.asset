@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Wilted_Leaf
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Wilted Leaf
+  id: 61
+  itemName: Crimson Clusters
   itemType: 5
   valeur: -2
   tier: 0
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: -4910088520043721169, guid: 9db17aa5111c6cb4cbf7413f27a34f4c, type: 3}
+  icon: {fileID: -4910088520043721169, guid: 9db17aa5111c6cb4cbf7413f27a34f4c, type: 3}

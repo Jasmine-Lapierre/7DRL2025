@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TypeArnure
   m_EditorClassIdentifier: 
   itemType: 1
-  sprite: {fileID: -2568344760243909871, guid: 4dfae2a7bdb4f8f40b28369054eb7d21, type: 3}
+  quantite: 0
+  quantiteEnJeu: 0
+  valeur: 0
+  sprite: {fileID: 1030301682389474853, guid: ff891b97bc84d43429ff55b51acfb556, type: 3}

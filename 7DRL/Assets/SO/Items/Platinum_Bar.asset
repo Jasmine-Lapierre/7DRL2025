@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Platinum_Bar
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Platinum Bar
+  id: 40
+  itemName: Strength Crystal
   itemType: 4
   valeur: 20
   tier: 3
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 948920597, guid: d7364ae6b5653e2458b9784a8266e4ed, type: 3}
+  icon: {fileID: 948920597, guid: d7364ae6b5653e2458b9784a8266e4ed, type: 3}

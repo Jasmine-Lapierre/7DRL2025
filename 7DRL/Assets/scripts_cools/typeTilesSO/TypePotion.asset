@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TypePotion
   m_EditorClassIdentifier: 
   itemType: 2
-  sprite: {fileID: 720003295040211005, guid: 22d5d52fee55cb54d9d4b18c9de2360f, type: 3}
+  quantite: 0
+  quantiteEnJeu: 212
+  valeur: 2
+  sprite: {fileID: 6617460158513840435, guid: 81664ea297e06ef419333cc245e5fdb7, type: 3}

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1a6a388f63740459544ecf728aebc5, type: 3}
   m_Name: Dried_Meat
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: Dried Meat
+  id: 14
+  itemName: Potatoes
   itemType: 3
-  valeur: 2
+  valeur: 1
   tier: 1
-  sprite: {fileID: 0}
-  icon: {fileID: 0}
+  sprite: {fileID: 21300000, guid: c7c623d3bebc03649b372c221bd370b0, type: 3}
+  icon: {fileID: 21300000, guid: c7c623d3bebc03649b372c221bd370b0, type: 3}
